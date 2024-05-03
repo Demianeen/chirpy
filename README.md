@@ -1,6 +1,6 @@
 # Chirpy
 
-Simple API for a social network similar to Twitter written in go
+Simple API for an imaginary social network similar to Twitter written in go
 
 ## ⚙️ Installation
 
